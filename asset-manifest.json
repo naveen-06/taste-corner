@@ -1,0 +1,37 @@
+{
+  "files": {
+    "static/js/0.162921ca.chunk.js": "/taste-corner/static/js/0.162921ca.chunk.js",
+    "static/js/0.162921ca.chunk.js.map": "/taste-corner/static/js/0.162921ca.chunk.js.map",
+    "main.css": "/taste-corner/static/css/main.ee92e6fa.chunk.css",
+    "main.js": "/taste-corner/static/js/main.12613003.chunk.js",
+    "main.js.map": "/taste-corner/static/js/main.12613003.chunk.js.map",
+    "runtime-main.js": "/taste-corner/static/js/runtime-main.1cd31795.js",
+    "runtime-main.js.map": "/taste-corner/static/js/runtime-main.1cd31795.js.map",
+    "static/js/3.5214dc8e.chunk.js": "/taste-corner/static/js/3.5214dc8e.chunk.js",
+    "static/js/3.5214dc8e.chunk.js.map": "/taste-corner/static/js/3.5214dc8e.chunk.js.map",
+    "static/css/4.f5d2056d.chunk.css": "/taste-corner/static/css/4.f5d2056d.chunk.css",
+    "static/js/4.cf2d7ae9.chunk.js": "/taste-corner/static/js/4.cf2d7ae9.chunk.js",
+    "static/js/4.cf2d7ae9.chunk.js.map": "/taste-corner/static/js/4.cf2d7ae9.chunk.js.map",
+    "static/css/5.c8c9a2d3.chunk.css": "/taste-corner/static/css/5.c8c9a2d3.chunk.css",
+    "static/js/5.4ba97b4a.chunk.js": "/taste-corner/static/js/5.4ba97b4a.chunk.js",
+    "static/js/5.4ba97b4a.chunk.js.map": "/taste-corner/static/js/5.4ba97b4a.chunk.js.map",
+    "static/js/6.35d4030c.chunk.js": "/taste-corner/static/js/6.35d4030c.chunk.js",
+    "static/js/6.35d4030c.chunk.js.map": "/taste-corner/static/js/6.35d4030c.chunk.js.map",
+    "index.html": "/taste-corner/index.html",
+    "precache-manifest.9f1ea9a0f0073fa6af48e5ef8cd1e4ee.js": "/taste-corner/precache-manifest.9f1ea9a0f0073fa6af48e5ef8cd1e4ee.js",
+    "service-worker.js": "/taste-corner/service-worker.js",
+    "static/css/4.f5d2056d.chunk.css.map": "/taste-corner/static/css/4.f5d2056d.chunk.css.map",
+    "static/css/5.c8c9a2d3.chunk.css.map": "/taste-corner/static/css/5.c8c9a2d3.chunk.css.map",
+    "static/css/main.ee92e6fa.chunk.css.map": "/taste-corner/static/css/main.ee92e6fa.chunk.css.map",
+    "static/js/3.5214dc8e.chunk.js.LICENSE.txt": "/taste-corner/static/js/3.5214dc8e.chunk.js.LICENSE.txt",
+    "static/media/facebook.c1e76960.svg": "/taste-corner/static/media/facebook.c1e76960.svg",
+    "static/media/instagram.fc23b902.svg": "/taste-corner/static/media/instagram.fc23b902.svg",
+    "static/media/twitter.a57ea219.svg": "/taste-corner/static/media/twitter.a57ea219.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cd31795.js",
+    "static/js/3.5214dc8e.chunk.js",
+    "static/css/main.ee92e6fa.chunk.css",
+    "static/js/main.12613003.chunk.js"
+  ]
+}
